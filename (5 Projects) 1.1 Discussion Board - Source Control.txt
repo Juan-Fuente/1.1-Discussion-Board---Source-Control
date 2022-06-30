@@ -1,0 +1,19 @@
+https://github.com/tinode/chat
+
+I've always wanted to develope something where people can communicate quickly like an IRC or any live chat feauture, so this is one open source project I'm interested in.
+
+https://github.com/blueedgetechno/win11React
+
+This open source project aims to recreate Windows 11 inside a browser. The capabilities of doing something like that seem incredible to me.
+
+https://github.com/mvt-project/mvt
+
+I am very interested in this project as it deal with security. Anything that can effectively deal with treats and malware is fascinating to me specially this one since it can do so in Android.
+
+https://github.com/wrye-bash/wrye-bash
+
+I have used Wrye Bash to keep track of my mods for games and it is a very useful tool that needs some improvement. I would love to one day be able to be competent enough to contribute to this.
+
+https://github.com/github/gitignore
+
+A collection of templates for gitignore that was asked to be one of the five open source projects we place on the list.
